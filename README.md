@@ -1,5 +1,12 @@
 # LobSec Python SDK
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)](https://github.com/lobsec-security/lobsec-sdk/releases)
+[![Build Status](https://img.shields.io/badge/build-passing-brightgreen.svg)](https://github.com/lobsec-security/lobsec-sdk/actions)
+[![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/)
+[![Base](https://img.shields.io/badge/Base-L2-0052FF.svg)](https://base.org/)
+[![Web3.py](https://img.shields.io/badge/Web3.py-6.x-green.svg)](https://web3py.readthedocs.io/)
+
 A unified Python SDK for interacting with the LobSec Agent Insurance Protocol on Base.
 
 **Live on Base Mainnet** - Contracts verified on BaseScan.
