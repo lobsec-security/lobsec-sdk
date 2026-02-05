@@ -137,15 +137,15 @@ threat = registry.get_threat_level("0xAgentAddress")
 
 ## Contract Addresses
 
-### Base Mainnet
+### Base Mainnet (v2 - Feb 2026)
 
-| Contract | Address |
-|----------|---------|
-| AgentInsurancePool | `0x...` (update after deploy) |
-| AgentStaking | `0x...` (update after deploy) |
-| ClaimOracle | `0x...` (update after deploy) |
-| LobSec Registry | `0x0BDb4d48860520B60C0EF96c2B225aF0c36240c3` |
-| USDC | `0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913` |
+| Contract | Address | BaseScan |
+|----------|---------|----------|
+| AgentInsurancePool | `0x206E260A07b9389E1Cb6f2a42BAEAc6E1374f6F1` | [View](https://basescan.org/address/0x206E260A07b9389E1Cb6f2a42BAEAc6E1374f6F1) |
+| AgentStaking | `0x585aaF900b573a1408fbEB8b02EAf343BdAaae62` | [View](https://basescan.org/address/0x585aaF900b573a1408fbEB8b02EAf343BdAaae62) |
+| ClaimOracle | `0x70948e18A166Fa34807C2B5bf4D4b94c8Df79c54` | [View](https://basescan.org/address/0x70948e18A166Fa34807C2B5bf4D4b94c8Df79c54) |
+| LobSec Registry | `0x0BDb4d48860520B60C0EF96c2B225aF0c36240c3` | [View](https://basescan.org/address/0x0BDb4d48860520B60C0EF96c2B225aF0c36240c3) |
+| USDC | `0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913` | [View](https://basescan.org/address/0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913) |
 
 ## Privilege Levels
 
